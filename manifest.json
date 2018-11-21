@@ -1,5 +1,5 @@
 {
-    "manifest_version": 3,
+    "manifest_version": 2,
     "name": "Attuned Survey Helper",
     "description": "This extension will help you fill out the attuned survey faster",
     "version": "3.0",
