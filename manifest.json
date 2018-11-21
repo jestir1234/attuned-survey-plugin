@@ -1,8 +1,8 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Attuned Survey Helper",
     "description": "This extension will help you fill out the attuned survey faster",
-    "version": "2.0",
+    "version": "3.0",
     "browser_action": {
         "default_icon": "chrome-ext-icon.png",
         "default_popup": "popup.html"
